@@ -1,0 +1,6 @@
+[submodule "montyhall_python"]
+	path = montyhall_python
+	url = git@github.com:rgobbel/montyhall_python.git
+[submodule "monty_hall_rs"]
+	path = monty_hall_rs
+	url = git@github.com:rgobbel/monty_hall_rs.git
