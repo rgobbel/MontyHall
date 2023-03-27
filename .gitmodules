@@ -4,3 +4,6 @@
 [submodule "monty_hall_rs"]
 	path = monty_hall_rs
 	url = git@github.com:rgobbel/monty_hall_rs.git
+[submodule "MontyHall.jl"]
+	path = MontyHall.jl
+	url = git@github.com:rgobbel/MontyHall.jl.git
